@@ -37,7 +37,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - Use actions created by others in [awesome-actions](https://github.com/sdras/awesome-actions).
 - We'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
 - [Take another GitHub Skills course](https://github.com/skills).
-- Learn more about GitHub by reading the "[Get started](https://docs.github.com/get-started)" docs.
+- Learn more about GitHub by reading the "[Get started](https://docs.github.com/get-started)" documents.
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
